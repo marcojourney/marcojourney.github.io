@@ -29,17 +29,19 @@
 	<script src="js/modernizr.js"></script> <!-- Modernizr -->
 
     <!-- Google tag (gtag.js) -->
+	<script async src="https://storage.googleapis.com/survey-engine-cdn/js/browserjs.min.js"></script>
 	<script async src="https://www.googletagmanager.com/gtag/js?id=G-1MQDE7W3RC"></script>
 	<script>
 	  window.dataLayer = window.dataLayer || [];
 	  function gtag(){dataLayer.push(arguments);}
 	  gtag('js', new Date());
 	
-	  gtag('config', 'G-1MQDE7W3RC');	
-
-	gtag('set' , 'user_properties', {
-		user_id: '115267289282.8282',
-		user_pseudo_id: 'siveing.115267289282'
+	browserjs.getVisitorId().then((visitorId) => {
+		gtag('config', 'G-1MQDE7W3RC');
+		gtag('set' , 'user_properties', {
+			user_id: visitorId
+		});
+		console.log({ visitorId });
 	});
 
 	  // gtag('config', 'G-1MQDE7W3RC', {
