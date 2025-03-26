@@ -1,0 +1,89 @@
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "page": 1,
+    "page_size": 4,
+    "results": [
+        {
+            "id": "1",
+            "business": {
+                "id": "101",
+                "name": "Malis Restaurant"
+            },
+            "info_locales": [
+                { "en": "Grilled Chicken with Rice", "kh": "សាច់មាន់អាំងជាមួយបាយ" }
+            ],
+            "image": "https://example.com/images/grilled_chicken_rice.jpg",
+            "price": 5.99,
+            "promotion": {
+                "discount": "10% off",
+                "valid_until": "2025-12-31"
+            },
+            "discount_price": 5.39,
+            "favourite": {
+                "count": 150
+            }
+        },
+        {
+            "id": "2",
+            "business": {
+                "id": "102",
+                "name": "Topaz – French Restaurant"
+            },
+            "info_locales": [
+                { "en": "Beef Steak with Mashed Potatoes", "kh": "សាច់គោអាំងជាមួយដំឡូងបុក" }
+            ],
+            "image": "https://example.com/images/beef_steak.jpg",
+            "price": 12.50,
+            "promotion": {
+                "discount": "Buy 1 Get 1 Free",
+                "valid_until": "2025-08-15"
+            },
+            "discount_price": 6.25,
+            "favourite": {
+                "count": 230
+            }
+        },
+        {
+            "id": "3",
+            "business": {
+                "id": "103",
+                "name": "Namaste India"
+            },
+            "info_locales": [
+                { "en": "Chicken Curry with Naan", "kh": "ការីសាច់មាន់ជាមួយនាន" }
+            ],
+            "image": "https://example.com/images/chicken_curry.jpg",
+            "price": 8.75,
+            "promotion": {
+                "discount": "20% off",
+                "valid_until": "2025-11-30"
+            },
+            "discount_price": 7.00,
+            "favourite": {
+                "count": 320
+            }
+        },
+        {
+            "id": "4",
+            "business": {
+                "id": "104",
+                "name": "Mountain Grill"
+            },
+            "info_locales": [
+                { "en": "BBQ Ribs with Fries", "kh": "សាច់ជ្រូកអាំងជាមួយដំឡូងបំពង" }
+            ],
+            "image": "https://example.com/images/bbq_ribs.jpg",
+            "price": 15.99,
+            "promotion": {
+                "discount": "Free appetizer",
+                "valid_until": "2025-06-20"
+            },
+            "discount_price": 15.99,
+            "favourite": {
+                "count": 180
+            }
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": "1",
+    "business": {
+        "id": "101",
+        "name": "Malis Restaurant"
+    },
+    "info_locales": [
+        { "en": "Grilled Chicken with Rice", "kh": "សាច់មាន់អាំងជាមួយបាយ" }
+    ],
+    "image": "https://example.com/images/grilled_chicken_rice.jpg",
+    "price": 5.99,
+    "promotion": {
+        "discount": "10% off",
+        "valid_until": "2025-12-31"
+    },
+    "discount_price": 5.39,
+    "favourite": {
+        "count": 150
+    }
+}
