@@ -9,7 +9,23 @@
             "id": "1",
             "business": {
                 "id": "101",
-                "name": "Malis Restaurant"
+                "name": "Malis Restaurant",
+                "logo": "https://marcojourney.github.io/images/merchant-detail-logo.png",
+                "cover": "https://marcojourney.github.io/images/merchant-detail-cover.png",
+                "delivery": {
+                    "available": true,
+                    "fee": 2.00,
+                    "estimated_time": "30-45 mins"
+                },
+                "review_info": {
+                    "rating": 4.7,
+                    "total_reviews": 120
+                },
+                "branch": {
+                    "id": "B101",
+                    "location": "Phnom Penh, Cambodia",
+                    "phone": "+855 123 456 789"
+                }
             },
             "info_locales": [
                 { "en": "Grilled Chicken with Rice", "kh": "សាច់មាន់អាំងជាមួយបាយ" }
@@ -29,7 +45,23 @@
             "id": "2",
             "business": {
                 "id": "102",
-                "name": "Topaz – French Restaurant"
+                "name": "Topaz – French Restaurant",
+                "logo": "https://marcojourney.github.io/images/merchant-detail-logo.png",
+                "cover": "https://marcojourney.github.io/images/merchant-detail-cover.png",
+                "delivery": {
+                    "available": false,
+                    "fee": 0.00,
+                    "estimated_time": null
+                },
+                "review_info": {
+                    "rating": 4.8,
+                    "total_reviews": 250
+                },
+                "branch": {
+                    "id": "B102",
+                    "location": "Siem Reap, Cambodia",
+                    "phone": "+855 987 654 321"
+                }
             },
             "info_locales": [
                 { "en": "Beef Steak with Mashed Potatoes", "kh": "សាច់គោអាំងជាមួយដំឡូងបុក" }
@@ -49,7 +81,23 @@
             "id": "3",
             "business": {
                 "id": "103",
-                "name": "Namaste India"
+                "name": "Namaste India",
+                "logo": "https://marcojourney.github.io/images/merchant-detail-logo.png",
+                "cover": "https://marcojourney.github.io/images/merchant-detail-cover.png",
+                "delivery": {
+                    "available": true,
+                    "fee": 3.00,
+                    "estimated_time": "40-60 mins"
+                },
+                "review_info": {
+                    "rating": 4.6,
+                    "total_reviews": 180
+                },
+                "branch": {
+                    "id": "B103",
+                    "location": "Battambang, Cambodia",
+                    "phone": "+855 456 789 123"
+                }
             },
             "info_locales": [
                 { "en": "Chicken Curry with Naan", "kh": "ការីសាច់មាន់ជាមួយនាន" }
@@ -69,7 +117,23 @@
             "id": "4",
             "business": {
                 "id": "104",
-                "name": "Mountain Grill"
+                "name": "Mountain Grill",
+                "logo": "https://marcojourney.github.io/images/merchant-detail-logo.png",
+                "cover": "https://marcojourney.github.io/images/merchant-detail-cover.png",
+                "delivery": {
+                    "available": true,
+                    "fee": 1.50,
+                    "estimated_time": "25-35 mins"
+                },
+                "review_info": {
+                    "rating": 4.9,
+                    "total_reviews": 300
+                },
+                "branch": {
+                    "id": "B104",
+                    "location": "Sihanoukville, Cambodia",
+                    "phone": "+855 321 654 987"
+                }
             },
             "info_locales": [
                 { "en": "BBQ Ribs with Fries", "kh": "សាច់ជ្រូកអាំងជាមួយដំឡូងបំពង" }
