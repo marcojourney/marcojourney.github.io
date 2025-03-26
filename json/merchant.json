@@ -1,0 +1,59 @@
+[
+    {
+      "id": "1",
+      "logo": "https://example.com/logos/restaurant1.png",
+      "cover": "https://example.com/covers/restaurant1.jpg",
+      "nameLocales": [
+        { "en": "Sunset Diner", "kh": "សាន់សែត ដាញ័រ" }
+      ],
+      "branch": { "count": 3, "locations": ["Phnom Penh", "Siem Reap", "Battambang"] },
+      "delivery": { "available": true, "partners": ["Wing Delivery", "FoodPanda"] },
+      "promotion": { "discount": "10% off", "validUntil": "2025-12-31" },
+      "favourite": { "count": 1500 },
+      "review": { "average": 4.5, "total": 320 },
+      "wingpoint": { "rewardPoints": 100 }
+    },
+    {
+      "id": "2",
+      "logo": "https://example.com/logos/restaurant2.png",
+      "cover": "https://example.com/covers/restaurant2.jpg",
+      "nameLocales": [
+        { "en": "Golden Spoon", "kh": "ស្ពូនមាស" }
+      ],
+      "branch": { "count": 2, "locations": ["Phnom Penh", "Kampot"] },
+      "delivery": { "available": false },
+      "promotion": { "discount": "Buy 1 Get 1 Free", "validUntil": "2025-08-15" },
+      "favourite": { "count": 980 },
+      "review": { "average": 4.2, "total": 210 },
+      "wingpoint": { "rewardPoints": 80 }
+    },
+    {
+      "id": "3",
+      "logo": "https://example.com/logos/restaurant3.png",
+      "cover": "https://example.com/covers/restaurant3.jpg",
+      "nameLocales": [
+        { "en": "Spicy Kitchen", "kh": "ផ្ទះបាយម្ហូបហឹរ" }
+      ],
+      "branch": { "count": 5, "locations": ["Phnom Penh", "Siem Reap", "Sihanoukville", "Kampong Cham", "Battambang"] },
+      "delivery": { "available": true, "partners": ["Nham24", "FoodPanda"] },
+      "promotion": { "discount": "20% off", "validUntil": "2025-11-30" },
+      "favourite": { "count": 2300 },
+      "review": { "average": 4.7, "total": 540 },
+      "wingpoint": { "rewardPoints": 120 }
+    },
+    {
+      "id": "100",
+      "logo": "https://example.com/logos/restaurant100.png",
+      "cover": "https://example.com/covers/restaurant100.jpg",
+      "nameLocales": [
+        { "en": "Mountain Grill", "kh": "ភោជនីយដ្ឋានភ្នំ" }
+      ],
+      "branch": { "count": 1, "locations": ["Mondulkiri"] },
+      "delivery": { "available": false },
+      "promotion": { "discount": "Free appetizer", "validUntil": "2025-06-20" },
+      "favourite": { "count": 450 },
+      "review": { "average": 4.0, "total": 150 },
+      "wingpoint": { "rewardPoints": 50 }
+    }
+  ]
+  
