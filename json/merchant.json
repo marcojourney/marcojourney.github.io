@@ -4,7 +4,7 @@
       "logo": "https://example.com/logos/restaurant1.png",
       "cover": "https://example.com/covers/restaurant1.jpg",
       "nameLocales": [
-        { "en": "Sunset Diner", "kh": "សាន់សែត ដាញ័រ" }
+        { "en": "Malis Restaurant", "kh": "Malis Restaurant" }
       ],
       "branch": { "count": 3, "locations": ["Phnom Penh", "Siem Reap", "Battambang"] },
       "delivery": { "available": true, "partners": ["Wing Delivery", "FoodPanda"] },
@@ -18,7 +18,7 @@
       "logo": "https://example.com/logos/restaurant2.png",
       "cover": "https://example.com/covers/restaurant2.jpg",
       "nameLocales": [
-        { "en": "Golden Spoon", "kh": "ស្ពូនមាស" }
+        { "en": "Topaz – French Restaurant BKK", "kh": "Topaz – French Restaurant BKK" }
       ],
       "branch": { "count": 2, "locations": ["Phnom Penh", "Kampot"] },
       "delivery": { "available": false },
@@ -32,7 +32,7 @@
       "logo": "https://example.com/logos/restaurant3.png",
       "cover": "https://example.com/covers/restaurant3.jpg",
       "nameLocales": [
-        { "en": "Spicy Kitchen", "kh": "ផ្ទះបាយម្ហូបហឹរ" }
+        { "en": "Namaste India", "kh": "ផ្ទះបាយម្ហូបហឹរ" }
       ],
       "branch": { "count": 5, "locations": ["Phnom Penh", "Siem Reap", "Sihanoukville", "Kampong Cham", "Battambang"] },
       "delivery": { "available": true, "partners": ["Nham24", "FoodPanda"] },
