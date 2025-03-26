@@ -1,0 +1,14 @@
+{
+    "id": "1",
+    "logo": "https://example.com/logos/restaurant1.png",
+    "cover": "https://marcojourney.github.io/images/Malis%20Restaurant.png",
+    "name_locales": [
+        { "en": "Malis Restaurant", "kh": "Malis Restaurant" }
+    ],
+    "branch": { "count": 3, "locations": ["Phnom Penh", "Siem Reap", "Battambang"] },
+    "delivery": { "available": true, "partners": ["Wing Delivery", "FoodPanda"] },
+    "promotion": { "discount": "10% off", "valid_until": "2025-12-31" },
+    "favourite": { "count": 1500 },
+    "review": { "average": 4.5, "total": 320 },
+    "wingpoint": { "reward_points": 100 }
+}
