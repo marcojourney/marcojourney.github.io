@@ -2,7 +2,7 @@
     {
       "id": "1",
       "logo": "https://example.com/logos/restaurant1.png",
-      "cover": "https://example.com/covers/restaurant1.jpg",
+      "cover": "https://marcojourney.github.io/images/Malis%20Restaurant.png",
       "nameLocales": [
         { "en": "Malis Restaurant", "kh": "Malis Restaurant" }
       ],
@@ -16,7 +16,7 @@
     {
       "id": "2",
       "logo": "https://example.com/logos/restaurant2.png",
-      "cover": "https://example.com/covers/restaurant2.jpg",
+      "cover": "https://marcojourney.github.io/images/Topaz – French Restaurant BKK.png",
       "nameLocales": [
         { "en": "Topaz – French Restaurant BKK", "kh": "Topaz – French Restaurant BKK" }
       ],
