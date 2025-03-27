@@ -10,5 +10,5 @@
     "promotion": { "discount": "10% off", "valid_until": "2025-12-31" },
     "favourite": { "count": 1500 },
     "review": { "average": 4.5, "total": 320 },
-    "wingpoint": { "reward_points": 100 }
+    "point": { "reward_points": 100 }
 }

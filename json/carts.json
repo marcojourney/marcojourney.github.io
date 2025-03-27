@@ -13,11 +13,11 @@
               { "en": "Malis Restaurant", "kh": "Malis Restaurant" }
           ],
           "branch": { "count": 3, "locations": ["Phnom Penh", "Siem Reap", "Battambang"] },
-          "delivery": { "available": true, "partners": ["Wownow", "FoodPanda"] },
+          "delivery": { "available": true, "partners": ["Wing Delivery", "FoodPanda"] },
           "promotion": { "discount": "10% off", "valid_until": "2025-12-31" },
           "favourite": { "count": 1500 },
           "review": { "average": 4.5, "total": 320 },
-          "point": { "reward_points": 100 }
+          "wingpoint": { "reward_points": 100 }
       },
       {
           "id": "2",
@@ -31,7 +31,7 @@
           "promotion": { "discount": "Buy 1 Get 1 Free", "valid_until": "2025-08-15" },
           "favourite": { "count": 980 },
           "review": { "average": 4.2, "total": 210 },
-          "point": { "reward_points": 80 }
+          "wingpoint": { "reward_points": 80 }
       },
       {
           "id": "3",
@@ -45,7 +45,7 @@
           "promotion": { "discount": "20% off", "valid_until": "2025-11-30" },
           "favourite": { "count": 2300 },
           "review": { "average": 4.7, "total": 540 },
-          "point": { "reward_points": 120 }
+          "wingpoint": { "reward_points": 120 }
       },
       {
           "id": "100",
@@ -59,7 +59,7 @@
           "promotion": { "discount": "Free appetizer", "valid_until": "2025-06-20" },
           "favourite": { "count": 450 },
           "review": { "average": 4.0, "total": 150 },
-          "point": { "reward_points": 50 }
+          "wingpoint": { "reward_points": 50 }
       }
   ]
 }
